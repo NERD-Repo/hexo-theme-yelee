@@ -22,7 +22,7 @@ favicon: /img/favicon.png
 # Internationalization | 主题语言
 ## Change Language in SITE's _config.yml | 在站点配置中切换语言
 ## https://hexo.io/docs/internationalization.html
-## Available Languages: en, zh-Hans, zh-Hant-TW, zh-Hant-HK
+## Available Languages: en, zh-CN, zh-TW-Hant, zh-HK-Hant
 
 # Subdirectory | 子目录
 ## If your site' url is 'http://yoursite.com/blog', set root_url as '/blog/'
